@@ -1,0 +1,1 @@
+What chess outcome results when a player has no legal move ?

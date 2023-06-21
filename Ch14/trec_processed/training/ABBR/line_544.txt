@@ -1,0 +1,1 @@
+How do I change a file from an ART file to a JPEG or Bitmap file ?

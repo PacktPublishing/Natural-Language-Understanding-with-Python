@@ -1,0 +1,1 @@
+What is the mean income of the top 10% , top 5% , and top 1% ?

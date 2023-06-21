@@ -1,0 +1,1 @@
+How many colored squares are there on a Rubik 's Cube ?

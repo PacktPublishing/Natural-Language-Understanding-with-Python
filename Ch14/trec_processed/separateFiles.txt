@@ -1,0 +1,12 @@
+# Open the input file in read mode
+with open('input.txt', 'r') as input_file:
+
+    # Read the contents of the input file line by line
+    for line_num, line_content in enumerate(input_file.readlines()):
+
+        # Generate a unique file name for each line
+        output_file_name = f"line_{line_num + 1}.txt"
+
+        # Open the output file in write mode and write the current line to it
+        with open(output_file_name, 'w') as output_file:
+            output_file.write(line_content)

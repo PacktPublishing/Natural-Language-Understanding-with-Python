@@ -1,0 +1,1 @@
+How do you determine if a computer monitor has an SVGA adapter ?

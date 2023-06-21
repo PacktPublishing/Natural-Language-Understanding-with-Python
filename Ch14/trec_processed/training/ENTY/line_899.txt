@@ -1,0 +1,1 @@
+Name the 5 words that use all of the letters in the alphabet , except Q , with no repeats .

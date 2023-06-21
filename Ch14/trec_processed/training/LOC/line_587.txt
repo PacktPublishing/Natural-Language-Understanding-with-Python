@@ -1,0 +1,1 @@
+How many three-letter permutations can be made from the four letters : c ?
