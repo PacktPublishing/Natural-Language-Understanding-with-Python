@@ -1,0 +1,28 @@
+{
+    "features": [
+        [
+            "low",
+            "title",
+            "upper"
+        ],
+        [
+            "low",
+            "bias",
+            "prefix5",
+            "prefix2",
+            "suffix5",
+            "suffix3",
+            "suffix2",
+            "upper",
+            "title",
+            "digit"
+        ],
+        [
+            "low",
+            "title",
+            "upper"
+        ]
+    ],
+    "c1": 0.003,
+    "c2": 0.03
+}
