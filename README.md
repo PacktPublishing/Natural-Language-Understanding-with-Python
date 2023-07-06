@@ -44,20 +44,16 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-| : Basic platform tools :|||
-|  	1-15	   |   	Python 3.9                                 			  | Any OS |
-|  	1-15	   |   	pip                             			  | Any OS |
-|  	1-15	   |   	Jupyter Notebooks                                			  | Any OS |
-|
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
-|  	1-15	   |   	Python 3.8                                 			  | Any OS |
+|  	1-15	   |   	Python 3.9                                 			                      | Any OS |
+|  	1-15	   |   	pip                                                           			  | Any OS |
+|  	1-15	   |   	Jupyter Notebooks                                              			  | Any OS |
+|  	1-15	   |   	NLTK                                 			                            | Any OS |
+|  	1-15	   |   	spaCy and displaCy                               			                | Any OS |
+|  	1-15	   |   	Keras                         			                                  | Any OS |
+|  	1-15	   |   	TensorFlow                                 			                      | Any OS |
+|  	1-15	   |   	Scikit-learn                                 			                    | Any OS |
+|  	1-15	   |   	Matplotlib                               			                        | Any OS |
+|  	1-15	   |   	Seaborn                                 			                        | Any OS |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/HrkNr).
